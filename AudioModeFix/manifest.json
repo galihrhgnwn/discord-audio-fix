@@ -1,0 +1,9 @@
+{
+  "id": "audio-mode-fix",
+  "name": "Audio Mode Fix",
+  "description": "Prevents Discord from setting MODE_IN_COMMUNICATION when joining voice channels. Fixes audio sounding like a phone call on speakers and headphones.",
+  "authors": [{ "name": "galih", "id": "0" }],
+  "main": "index.js",
+  "version": "1.0.0",
+  "vendetta": { "icon": "ic_headset" }
+}
